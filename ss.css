@@ -1,0 +1,48 @@
+.h{
+
+color: black;
+
+padding-top:200px;
+
+}
+table{
+
+    border: 2px solid blue;
+}
+.k{
+
+
+    color: blue;
+}
+
+th, td {
+    border: 2px solid blue;
+align-self: center;
+    text-align: left;
+}
+
+.d{
+
+    
+        align-self: center;
+        
+margin-right: 400px;
+        
+         width: 80%;
+        
+         
+}
+.i{
+height: 200px;
+width: 400px;
+    align-self: center;
+    padding-left: 280px;
+    margin-left: 400px;
+}
+
+
+
+.content{
+align-self:start;
+
+}

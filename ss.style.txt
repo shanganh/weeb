@@ -1,0 +1,35 @@
+.h{
+
+color: black;
+
+padding-top:800px;
+
+}
+
+.k{
+
+
+    color: blue;
+}
+.t{
+
+border:2px solid blue;
+
+
+}
+th, td {
+    border: 2px solid blue;
+
+    text-align: left;
+}
+.d{
+
+    
+        align-self: center;
+         border-collapse: collapse;
+
+        
+         width: 80%;
+         padding-left: 300px;
+         
+}
